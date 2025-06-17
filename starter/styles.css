@@ -1,1 +1,10 @@
 /* This is where your CSS goes! */
+p {
+	color: blue;
+	font-size: 2rem;
+}
+
+body {
+	background-color: green;
+	margin: 1rem;
+}
